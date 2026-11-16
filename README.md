@@ -1,40 +1,110 @@
-# ![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif) Hello, I'm Jeevidha! 👋
+<h1 align="center">Jeevidha Arora</h1>
 
-Final-year Computer Science Engineering student at GTB4CEC (GGSIPU), graduating 2027. I build full stack web apps and I'm exploring AI. Currently looking for **Full Stack internships**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Exploring+Generative+and+Agentic+AI;Python+%7C+Node.js+%7C+MongoDB" alt="Typing animation" />
+</p>
 
-## 🎓 About Me
+<p align="center">
+  <a href="PASTE_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="PASTE_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>
+</p>
 
-- 🎓 B.Tech CSE, GTB4CEC (GGSIPU), batch of 2027
-- 💼 Interned at **HCL Technologies**
-- ✈️ Interned at **Airports Authority of India (AAI)**
-- ✍️ Club Head at Wordsmith · Operations Head at Code Geeks · Creative & Literary Head at The Empirical Society
-- 📍 Delhi, India
+---
 
-## 🔧 Technologies & Tools
+<h2 align="center">About Me</h2>
 
-- **Primary focus:** Full Stack Development (MERN)
-- **Exploring:** RAG, MCP, Generative & Agentic AI
-- **Languages:** Python JavaScript, C, SQL, HTML, CSS,Bootstap <!-- EDIT: only list what you can defend in an interview -->
-- **Tools:** Git, GitHub, VS Code, Oracle Database 19c, Google Cloud Platform <!-- EDIT -->
+I'm a final-year Computer Science student who enjoys building full stack web applications and, more recently, AI systems in which several agents work together on a single task. I have interned at HCL Technologies and at the Airports Authority of India, and I also lead student teams that organise national-level hackathons and literary events.
 
+```js
+const jeevidha = {
+  education: "B.Tech in Computer Science & Engineering, GGSIPU (2023 - 2027)",
+  location: "Delhi, India",
+  currentFocus: ["Full Stack Development", "Generative and Agentic AI"],
+  experience: ["HCL Technologies (Intern)", "Airports Authority of India (Intern)"],
+  leading: ["Wordsmith (Head)", "Code Geeks (former Operations Head)"],
+  lookingFor: "A Full Stack internship, and I'm also open to AI roles"
+};
+```
 
-## 💻 Tech Stack
+---
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,gcp,vscode&perline=12)](https://skillicons.dev)
+<h2 align="center">Tech Stack</h2>
 
-## 📊 GitHub Stats
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,js,html,css&theme=dark" />
+</p>
 
-| **Stats** | **Streak** | **Top Languages** |
-| --- | --- | --- |
-| [![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/YOUR_USERNAME) | [![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)](https://github.com/YOUR_USERNAME) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME) |
+<p align="center"><b>Web & Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bootstrap&theme=dark" /><br/>
+  <sub>Also EJS, REST APIs and role-based access control</sub>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge&label=Visitors)](https://github.com/jeevidhaa)
-<!--[![Resume](https://img.shields.io/badge/View-Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](PASTE_YOUR_RESUME_LINK_HERE)-->
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" /><br/>
+  <sub>Also Oracle Database 19c and ChromaDB</sub>
+</p>
 
-### **Let's connect!**
+<p align="center"><b>AI & Machine Learning</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy&theme=dark" /><br/>
+  <sub>RAG, MCP, multi-agent systems, sentence-transformers, Streamlit, Matplotlib</sub>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](PASTE_INSTAGRAM_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="center"><b>Cloud & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,matlab&theme=dark" /><br/>
+  <sub>Also BigQuery, Vertex AI, Cloud Run, Jupyter and Google Colab</sub>
+</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+---
+
+<h2 align="center">Projects</h2>
+
+- **[HireLens](https://github.com/jeevidhaa/HireLens)**: An AI-powered recruitment and ATS assistant in which four cooperating agents, connected through three Model Context Protocol servers, take a candidate from sourcing all the way to the interview stage. It extracts profiles from PDF, DOCX and TXT resumes and ranks candidates for a job using hybrid retrieval (BM25 with ChromaDB embeddings) and explainable scoring.
+
+- **[PhishLens](https://github.com/jeevidhaa/PhishLens)**: A phishing detection and risk analysis web app built with Streamlit. It extracts 24 features from a URL and classifies it with a Random Forest model trained on 64K labelled URLs, reaching 90% accuracy and 84% phishing recall. The final 0 to 100 risk score also combines ten rule-based URL checks with an OpenPhish lookup, and the app can analyse suspicious messages as well.
+
+- **[AERO-CONNECT](https://github.com/jeevidhaa/AERO-CONNECT)**: A full stack grievance management portal built for the Northern Region headquarters of the Airports Authority of India, using MongoDB, Express.js, Node.js and EJS. It serves 14 departments with role-based access for nine department admins and one super admin, whose dashboard offers organisation-wide monitoring, analytics and CSV export.
+
+---
+
+<h2 align="center">Experience & Leadership</h2>
+
+- **Intern, HCL Technologies (April to July 2026):** I built a multi-agent AI recruitment prototype in Python that automates resume parsing, skill extraction and candidate scoring in one workflow. I also trained classification models in scikit-learn and designed and tuned database schemas and queries on Oracle 19c.
+- **Intern, Airports Authority of India (January to February 2026):** I designed and built AERO-CONNECT, the grievance portal described above, and led the work on its authentication and admin access control.
+- **Head, Wordsmith, the literary club (September 2025 to present):** I lead a team of more than 30 members, run the club's flagship events for over 100 participants, and serve as Editor-in-Chief of its newsletter.
+- **Operations Head, Code Geeks (November 2023 to September 2025):** I ran the operations for two 36-hour national hackathons, managing a team of more than 50 members for over 100 participants.
+
+---
+
+<h2 align="center">Achievements</h2>
+
+- **Winner, Internal Smart India Hackathon Pre-Qualifiers** with Team Anveshak, at my college's internal round.
+- **Recognised for leadership** by the College Director and faculty for my work heading Wordsmith.
+- **Awarded for two years of sustained leadership** at Code Geeks.
+- **Certifications:** McKinsey Forward Program; Develop GenAI Apps with Gemini and Streamlit (Google Cloud); Prompt Design in Vertex AI (Google Cloud).
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=jeevidhaa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jeevidhaa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jeevidhaa&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">Get in Touch</h2>
+
+<p align="center">
+  I'm currently looking for a Full Stack internship, and I'm also open to roles that involve AI.<br/>
+  If you would like to talk about a project or an opportunity, you can reach me on LinkedIn or by email.
+</p>

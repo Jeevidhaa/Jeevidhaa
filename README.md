@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jeevidha Arora 👋</h1>
 
 <p align="center">
-  I'm a final-year Computer Science student with a passion for Full Stack Development and Generative AI.
+  I'm a final-year Computer Science student with a passion for Full Stack Development and AI Intelligence.
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 - 🎓 Final-year B.Tech CSE student at Guru Gobind Singh Indraprastha University
 - 💼 Ex-Intern at HCL Technologies
-- ✈️ Former Intern at Airports Authority of India
+- ✈️ Ex-Intern at Airports Authority of India
 - 👑Aspire Leader'26 Harvard University.
-- 📍 Delhi, India
+- 📍 New Delhi, India
 
 ## 🔧 Technologies & Tools
 
@@ -41,11 +41,11 @@
 <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" />
 
 ## 🏆 Achievements & Leadership :
-
+- 🥇 Winner of the Internal Smart India Hackathon Pre-Qualifiers 
 - 🧭 Head at Wordsmith
 - ⚙️ Operations Head at Code Geeks
 - ✒️ Creative & Literary Head at The Empirical Society
-- 🥇 Winner of the Internal Smart India Hackathon Pre-Qualifiers with Team Anveshak
+
 
 ## 📊 GitHub Stats :
 

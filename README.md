@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jeevidha Arora 👋</h1>
 
 <p align="center">
-  I'm a final-year Computer Science student with a passion for Full Stack Development and AI Intelligence.
+  I'm a final-year Computer Science student with a passion for Full Stack Development and Artificial Intelligence.
 </p>
 
 <p align="center">
